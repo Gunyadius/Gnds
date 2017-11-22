@@ -13,7 +13,7 @@
 int main() {
     Chyslo a;
     cout<<"a="<<a<<"\n";
-    Chyslo b (4,7);
+    Chyslo b (4,8);
     b.Power(2);
     cout<<"b="<<b<<"\n";
    // a=b;
