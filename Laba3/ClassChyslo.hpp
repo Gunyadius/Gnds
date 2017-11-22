@@ -1,15 +1,14 @@
 //
-//  main.cpp
+//  ClassChyslo.hpp
 //  Laba3
 //
 //  Created by Сергей Глушенков on 22.11.17.
 //  Copyright © 2017 Сергей Глушенков. All rights reserved.
 //
 
-#include <iostream>
+#ifndef ClassChyslo_hpp
+#define ClassChyslo_hpp
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
-}
+#include <stdio.h>
+
+#endif /* ClassChyslo_hpp */
